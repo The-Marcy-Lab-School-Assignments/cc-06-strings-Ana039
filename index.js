@@ -10,3 +10,6 @@ console.log(reverseString("hello"));
 console.log(reverseString("oo"));
 console.log(reverseString(""));
 
+const happyBirthday = (age) => {
+    let 
+}
